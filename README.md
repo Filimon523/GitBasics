@@ -1,4 +1,4 @@
-#Werlcome to my Git Basics Project
+# Welcome to my Git Basics Project
 ## Intro
 
 This is git repo for Git Basics.
